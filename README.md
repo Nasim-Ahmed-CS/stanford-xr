@@ -1,11 +1,12 @@
 <h1 align="center">Anu (Digital Anubis)</h1>
 <p align="center">Stanford XR Hackathon Project</p>
+<p align="center">A VR system for ethical, emotionally guided interaction with digital legacies.</p>
+
 <p align="center">
   <img src="https://github.com/Nasim-Ahmed-CS/stanford-xr/blob/main/gallery%20(1).jpg" alt="Digital Anubis Header Image" width="100%"/>
 </p>
 
 
-**A VR system for ethical, emotionally guided interaction with digital legacies.**
 <p align="center">
   <strong style="font-size: 1.3rem;">🏆 Winner — Meta Track & Afference Track<br>Stanford XR Hackathon 2025 🏆</strong>
 </p>
