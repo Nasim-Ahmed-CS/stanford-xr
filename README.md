@@ -6,7 +6,7 @@
 
 **A VR system for ethical, emotionally guided interaction with digital legacies.**
 <p align="center">
-  <b>🏆 Winner — Meta Track & Afference Track | Stanford XR Hackathon 2025 🏆</b>
+  <strong style="font-size: 1.3rem;">🏆 Winner — Meta Track & Afference Track<br>Stanford XR Hackathon 2025 🏆</strong>
 </p>
 
 ---
